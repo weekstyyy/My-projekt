@@ -1,0 +1,64 @@
+<html>
+    <h1 style="color:#674119">Чек</h1>
+    <table style="border:4px solid black;border-collapse:collapse;">
+    <tr style="border:2px solid black;background-color:#d3a15f;color:#150d05">
+        <td>Продукт</td>
+        <td>Вес</td>        
+        <td>Колличество</td>        
+        <td>Цена за одну штуку</td>        
+        <td>Общая сумма</td> 
+    </tr>
+    <tr style="border:1px solid black;background-color:#deb887;color:#915922;">        
+        <td style="background-color:#d9ad73;color:#523414;">Кусочек шоколадного торта<img src="https://clipart-db.ru/file_content/rastr/cake_007.png"weight="26"height="26"></td>        
+        <td>200 гр</td>        
+        <td>1 шт.</td>        
+        <td>100 грн</td>        
+        <td>100 грн</td>
+    </tr> 
+    <tr style="border:1px solid black;background-color:#deb887;color:#915922;">               
+        <td style="background-color:#d9ad73;color:#523414;">Круассан с шоколадом<img src="https://pngimg.com/uploads/croissant/croissant_PNG27.png"weight="30"height="30"></td>             
+        <td>50 гр</td>        
+        <td>1 шт.</td>        
+        <td>75 грн</td>         
+        <td>75 грн</td>
+    </tr>
+    <tr style="border:1px solid black;background-color:#deb887;color:#915922;">       
+        <td style="background-color:#d9ad73;color:#523414;">Шоколадное пироженое<img src="https://pngroyale.com/wp-content/uploads/2022/02/Cupcake-Download-Transparent-PNG-Image-png.png"weight="28"height="28"></td>        
+        <td>150 гр</td>        
+        <td>1 шт.</td>        
+        <td>65 грн</td>        
+        <td>65 грн</td>
+    </tr>
+    <tr style="border:1px solid black;background-color:#deb887;color:#915922;">        
+        <td style="background-color:#d9ad73;color:#523414;">Шоколадный пончик<img src="https://www.mantinga.lt/images/service/1332.png"weight="25"height="25"></td>           
+        <td>65 гр</td>        
+        <td>1 шт.</td>        
+        <td>55 грн</td>       
+        <td>55 грн</td>
+    </tr>
+    <tr style="border:1px solid black;background-color:#deb887;color:#915922;">
+        <td style="background-color:#d9ad73;color:#523414;">Горячий шоколад<img src="https://www.pngmart.com/files/11/Hot-Chocolate-Glass-PNG-Free-Download.png"weight="30"height="30"></td>                
+        <td>500 мл</td>        
+        <td>2 ч.</td>        
+        <td>45 грн</td>       
+        <td>90 грн</td>
+    </tr>
+    <tr style="border:1px solid black;background-color:#deb887;color:#915922;">                  
+        <td style="background-color:#d9ad73;color:#523414;">Печенье с шоколадом<img src="https://1.bp.blogspot.com/-3CJw4L50_S0/XubqAm9WmII/AAAAAAAA01M/_CAUQZdfxwMFhhzNryv7DQIU75_Sog7iwCK4BGAYYCw/s1600/%25D1%2585%25D0%25BB%25D0%25B5%25D0%25B1_%2BDoV%2B%25283%2529.png"weight="20"height="20"></td>        
+        <td>45 гр</td>        
+        <td>15 шт.</td>        
+        <td>15 грн.</td>        
+        <td>300 грн.</td>
+    </tr>
+    <tr style="border:2px solid black;background-color:#d3a15f;">
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td style="background-color:#d3a15f;color:#150d05;"><p>685 грн</p></td>
+    </tr> 
+       </table> 
+        <tr>            
+        <td> <p>𝒯𝒽𝒶𝓃𝓀𝓈 𝒻ℴ𝓇 𝓎ℴ𝓊 ℴ𝓇𝒹ℯ𝓇 <img src="https://cdn-0.emojis.wiki/emoji-pics/facebook/brown-heart-facebook.png"weight="14"height="14"></p></td>
+        </tr> 
+</html>
